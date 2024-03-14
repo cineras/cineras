@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^forms/?$ https://docs.google.com/forms/d/e/1FAIpQLSc-cR1gVdtXYWsWIxYr2dwVNM37Va-N3JBBUWdJzcE1pDWqnQ/viewform?usp=sf_link [R=301,L]
